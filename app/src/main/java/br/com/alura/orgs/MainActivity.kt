@@ -9,8 +9,7 @@ class MainActivity : Activity(){
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        val view = View(this)
-        setContentView(view)
+        setContentView(R.layout.activity_main)
     }
 
 

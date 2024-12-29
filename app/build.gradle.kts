@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "br.com.alura.orgs"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.com.alura.orgs"
