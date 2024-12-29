@@ -11,9 +11,14 @@
         android:layout_height="wrap_content"
         tools:text="Salada de Frutas"
         android:text="Cesta de Frutas"
-
         app:layout_constraintEnd_toEndOf="parent"
-
         app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Laranja, manga e uva"
+        app:layout_constraintTop_toBottomOf=""
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
